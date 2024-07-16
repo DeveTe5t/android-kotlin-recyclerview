@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="btnDelete">Delete</string>
+    <string name="descriptionImgSuperHero">description Image Super Hero</string>
+    <string name="btnNewSuperHero">New Super Hero</string>
+    <string name="txFilter">Write your filter</string>
+    <string name="fabDescriptionText">Add new super hero</string>
+</resources>
